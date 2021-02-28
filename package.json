@@ -1,0 +1,20 @@
+{
+  "name": "modules_export-import",
+  "version": "1.0.0",
+  "description": "'home task 2'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meg-mila/modules_export-import.git"
+  },
+  "author": "Margarita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meg-mila/modules_export-import/issues"
+  },
+  "homepage": "https://github.com/Meg-mila/modules_export-import#readme",
+  "devDependencies": {}
+}
